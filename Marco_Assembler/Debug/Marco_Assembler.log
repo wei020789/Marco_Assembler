@@ -1,0 +1,11 @@
+﻿  Marco_Assembler.cpp
+C:\Users\user\OneDrive\桌面\Marco_Assembler\Marco_Assembler\process.h(38,21): warning C4018: '<': signed/unsigned 不相符
+C:\Users\user\OneDrive\桌面\Marco_Assembler\Marco_Assembler\process.h(62,20): warning C4018: '<': signed/unsigned 不相符
+C:\Users\user\OneDrive\桌面\Marco_Assembler\Marco_Assembler\process.h(92,20): warning C4018: '<': signed/unsigned 不相符
+C:\Users\user\OneDrive\桌面\Marco_Assembler\Marco_Assembler\process.h(100,21): warning C4018: '<': signed/unsigned 不相符
+C:\Users\user\OneDrive\桌面\Marco_Assembler\Marco_Assembler\process.h(121,20): warning C4018: '<': signed/unsigned 不相符
+C:\Users\user\OneDrive\桌面\Marco_Assembler\Marco_Assembler\Marco_Assembler.cpp(21,27): warning C4018: '<': signed/unsigned 不相符
+C:\Users\user\OneDrive\桌面\Marco_Assembler\Marco_Assembler\Marco_Assembler.cpp(27,27): warning C4018: '<': signed/unsigned 不相符
+C:\Users\user\OneDrive\桌面\Marco_Assembler\Marco_Assembler\Marco_Assembler.cpp(33,27): warning C4018: '<': signed/unsigned 不相符
+C:\Users\user\OneDrive\桌面\Marco_Assembler\Marco_Assembler\Marco_Assembler.cpp(39,27): warning C4018: '<': signed/unsigned 不相符
+  Marco_Assembler.vcxproj -> C:\Users\user\OneDrive\桌面\Marco_Assembler\Debug\Marco_Assembler.exe
